@@ -3,7 +3,10 @@
 - 📫 How to reach me: 
 
 [facebook](https://www.facebook.com/rust.timerbaev/)
-[vk](https://vk.com/0x0dh)
+
+[LinkedIn](https://www.linkedin.com/in/rustam-timerbaev-347096222)
+
+[leetcode](https://leetcode.com/0x0Dh/)
 
 <!---
 TimerbaevRR/TimerbaevRR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
